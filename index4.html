@@ -213,7 +213,7 @@
                     .attr('class', (d) => d.properties['rubriek'] == 'provincie' ? 'area' : (d.properties['rubriek'] == 'grootstedelijke_agglomeratie'?'city':'office'))
                     .on('click', handleareaClick)
                     .append('title')
-                    .text((d) => `${d.properties[titleProperty]}`)
+                    .text((d) => `${d.properties[titleProperty]} ${d.properties['rubriek'] == 'conclusion-office-location'?d.properties['address'] :''}`)
             }
 
             const displayProperty = (property) => {
