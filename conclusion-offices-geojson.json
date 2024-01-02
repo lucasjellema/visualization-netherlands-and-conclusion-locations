@@ -5,7 +5,9 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [ 6.3083021,53.1004663
+                "coordinates": [
+                    6.3083021,
+                    53.1004663
                 ]
             },
             "properties": {
@@ -13,11 +15,14 @@
                 "statnaam": "TheFactor.e",
                 "rubriek": "conclusion-office-location",
                 "address": "Friesestraatweg 215a, 9743 AD Groningen",
-                "pictureURL":"https://tfe.nl/app/uploads/R0000092-scaled-1280x853.jpg",
-                "companies": [{ "name": "TheFactor.e | 4NG",
-                               "logoURL" :"https://images.app.goo.gl/ye5x8Y7MGYvvvP4b7",
-                               "website" : "https://tfe.nl/"
-                             }]
+                "pictureURL": "https://tfe.nl/app/uploads/R0000092-scaled-1280x853.jpg",
+                "companies": [
+                    {
+                        "name": "TheFactor.e | 4NG",
+                        "logoURL": "https://images.app.goo.gl/ye5x8Y7MGYvvvP4b7",
+                        "website": "https://tfe.nl/"
+                    }
+                ]
             },
             "id": -1
         },
@@ -25,7 +30,9 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [5.9880346, 50.7843356
+                "coordinates": [
+                    5.9880346,
+                    50.7843356
                 ]
             },
             "properties": {
@@ -33,13 +40,302 @@
                 "statnaam": "Mediaan",
                 "rubriek": "conclusion-office-location",
                 "address": "Frankenlaan 5, 6419 BT Heerlen",
-                "pictureURL":"https://lh5.googleusercontent.com/p/AF1QipNgtn6Hdi1scvzfK8jXU6jbkuF2aDImWGXT90Z5=w426-h240-k-no",
-                "companies": [{ "name": "Mediaan",
-                               "logoURL" :"https://usercontent.one/wp/mediaan.com/wp-content/uploads/2022/06/Conclusion-Mediaan-Logo-Black-100x47-1.png?media=1691759740",
-                               "website" : "https://mediaan.com/"
-                             }]
+                "pictureURL": "https://lh5.googleusercontent.com/p/AF1QipNgtn6Hdi1scvzfK8jXU6jbkuF2aDImWGXT90Z5=w426-h240-k-no",
+                "companies": [
+                    {
+                        "name": "Mediaan",
+                        "logoURL": "https://usercontent.one/wp/mediaan.com/wp-content/uploads/2022/06/Conclusion-Mediaan-Logo-Black-100x47-1.png?media=1691759740",
+                        "website": "https://mediaan.com/"
+                    }
+                ]
             },
             "id": -2
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 4.919339519393105,52.335201336921195]
+            },
+            "properties": {
+                "id": -3,
+                "statnaam": "NextFields",
+                "rubriek": "conclusion-office-location",
+                "address": "Willem Fenengastraat 4b, 1096 BN Amsterdam",
+                "pictureURL": "",
+                "companies": [
+                    {
+                        "name": "NextFields | 4NG",
+                        "logoURL": "",
+                        "website": ""
+                    }
+                ]
+            },
+            "id": -3
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.654009184254794,52.43676108220976]
+            },
+            "properties": {
+                "id": -4,
+                "statnaam": "Blauwe Monsters",
+                "rubriek": "conclusion-office-location",
+                "address": "Jan van Krimpenweg 7, 2031 CE Haarlem",
+                "pictureURL": "",
+                "companies": [
+                    {
+                        "name": "Blauwe Monsters | 4NG",
+                        "logoURL": "",
+                        "website": ""
+                    }
+                ]
+            },
+            "id": -4
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.778227010522611,51.57103809332715]
+            },
+            "properties": {
+                "id": -5,
+                "statnaam": "Netvlies",
+                "rubriek": "conclusion-office-location",
+                "address": "Prinsenkade 8, 4811 VB Breda",
+                "pictureURL": "",
+                "companies": [
+                    {
+                        "name": "Netvlies | 4NG",
+                        "logoURL": "",
+                        "website": ""
+                    }
+                ]
+            },
+            "id": -5
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 4.79624757681799,52.490720661084666]
+            },
+            "properties": {
+                "id": -6,
+                "statnaam": "Arlanet",
+                "rubriek": "conclusion-office-location",
+                "address": "Veerdijk 40K, 1531 MS Wormer",
+                "pictureURL": "",
+                "companies": [
+                    {
+                        "name": "Arlanet | 4NG",
+                        "logoURL": "",
+                        "website": ""
+                    }
+                ]
+            },
+            "id": -6
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5.698992604973631,50.84507705825844]
+            },
+            "properties": {
+                "id": -7,
+                "statnaam": "Nexwork",
+                "rubriek": "conclusion-office-location",
+                "address": "Hoogbrugstraat 43, 6221 CP Maastricht",
+                "pictureURL": "",
+                "companies": [
+                    {
+                        "name": "Nexwork | 4NG",
+                        "logoURL": "",
+                        "website": "https://www.nexwork.nl/"
+                    }
+                ]
+            },
+            "id": -7
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.47553472724495,52.13291117282965]
+            },
+            "properties": {
+                "id": -8,
+                "statnaam": "Morgens",
+                "rubriek": "conclusion-office-location",
+                "address": "Kanaalpark 140, 2321 JV Leiden",
+                "pictureURL": "",
+                "companies": [
+                    {
+                        "name": "Morgens",
+                        "logoURL": "",
+                        "website": "http://www.morgens.nl/"
+                    }
+                ]
+            },
+            "id": -8
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.985306987443145,52.344130313979505]
+            },
+            "properties": {
+                "id": -9,
+                "statnaam": "Bikkelhart",
+                "rubriek": "conclusion-office-location",
+                "address": "Pedro de Medinalaan 9, 1086 XK Amsterdam",
+                "pictureURL": "",
+                "companies": [
+                    {
+                        "name": "Bikkelhart | 4NG",
+                        "logoURL": "",
+                        "website": "https://www.bikkelhart.com/"
+                    }
+                ]
+            },
+            "id": -9
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            },
+            "properties": {
+                "id": -3,
+                "statnaam": "",
+                "rubriek": "conclusion-office-location",
+                "address": "",
+                "pictureURL": "",
+                "companies": [
+                    {
+                        "name": "",
+                        "logoURL": "",
+                        "website": ""
+                    }
+                ]
+            },
+            "id": -3
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            },
+            "properties": {
+                "id": -3,
+                "statnaam": "",
+                "rubriek": "conclusion-office-location",
+                "address": "",
+                "pictureURL": "",
+                "companies": [
+                    {
+                        "name": "",
+                        "logoURL": "",
+                        "website": ""
+                    }
+                ]
+            },
+            "id": -3
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            },
+            "properties": {
+                "id": -3,
+                "statnaam": "",
+                "rubriek": "conclusion-office-location",
+                "address": "",
+                "pictureURL": "",
+                "companies": [
+                    {
+                        "name": "",
+                        "logoURL": "",
+                        "website": ""
+                    }
+                ]
+            },
+            "id": -3
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            },
+            "properties": {
+                "id": -3,
+                "statnaam": "",
+                "rubriek": "conclusion-office-location",
+                "address": "",
+                "pictureURL": "",
+                "companies": [
+                    {
+                        "name": "",
+                        "logoURL": "",
+                        "website": ""
+                    }
+                ]
+            },
+            "id": -3
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            },
+            "properties": {
+                "id": -3,
+                "statnaam": "",
+                "rubriek": "conclusion-office-location",
+                "address": "",
+                "pictureURL": "",
+                "companies": [
+                    {
+                        "name": "",
+                        "logoURL": "",
+                        "website": ""
+                    }
+                ]
+            },
+            "id": -3
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            },
+            "properties": {
+                "id": -3,
+                "statnaam": "",
+                "rubriek": "conclusion-office-location",
+                "address": "",
+                "pictureURL": "",
+                "companies": [
+                    {
+                        "name": "",
+                        "logoURL": "",
+                        "website": ""
+                    }
+                ]
+            },
+            "id": -3
         }
     ]
 }
