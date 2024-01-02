@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.463,
+                    53.202
+                ]
+            },
+            "properties": {
+                "id": 91,
+                "statnaam": "theFactor.e",
+                "rubriek": "conclusion-office-location"
+            },
+            "id": "GA01"
+        }
+    ]
+}
