@@ -55,7 +55,10 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [ 4.919339519393105,52.335201336921195]
+                "coordinates": [
+                    4.919339519393105,
+                    52.335201336921195
+                ]
             },
             "properties": {
                 "id": -3,
@@ -77,7 +80,10 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [4.654009184254794,52.43676108220976]
+                "coordinates": [
+                    4.654009184254794,
+                    52.43676108220976
+                ]
             },
             "properties": {
                 "id": -4,
@@ -99,7 +105,10 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [4.778227010522611,51.57103809332715]
+                "coordinates": [
+                    4.778227010522611,
+                    51.57103809332715
+                ]
             },
             "properties": {
                 "id": -5,
@@ -121,7 +130,10 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [ 4.79624757681799,52.490720661084666]
+                "coordinates": [
+                    4.79624757681799,
+                    52.490720661084666
+                ]
             },
             "properties": {
                 "id": -6,
@@ -143,7 +155,10 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [5.698992604973631,50.84507705825844]
+                "coordinates": [
+                    5.698992604973631,
+                    50.84507705825844
+                ]
             },
             "properties": {
                 "id": -7,
@@ -165,7 +180,10 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [4.47553472724495,52.13291117282965]
+                "coordinates": [
+                    4.47553472724495,
+                    52.13291117282965
+                ]
             },
             "properties": {
                 "id": -8,
@@ -187,7 +205,10 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [4.985306987443145,52.344130313979505]
+                "coordinates": [
+                    4.985306987443145,
+                    52.344130313979505
+                ]
             },
             "properties": {
                 "id": -9,
@@ -209,7 +230,10 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [5.265736357275593,52.06241110387002]
+                "coordinates": [
+                    5.265736357275593,
+                    52.06241110387002
+                ]
             },
             "properties": {
                 "id": -10,
@@ -227,12 +251,12 @@
                         "name": "4Net",
                         "logoURL": "https://cdn-matrix.4ng.nl/media/ofbibdri/4net_logo_middel.png",
                         "website": "https://www.4net.com/"
-                    }                    {
+                    },
+                    {
                         "name": "PossibilIT",
                         "logoURL": "https://cdn-matrix.4ng.nl/media/n0dkdylz/possibilit_logo_middel.png",
                         "website": "https://www.possibilit.nl"
                     }
-
                 ]
             },
             "id": -10
@@ -241,7 +265,10 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [ 5.9210627140006435,52.18655821357478]
+                "coordinates": [
+                    5.9210627140006435,
+                    52.18655821357478
+                ]
             },
             "properties": {
                 "id": -11,
@@ -263,7 +290,10 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [5.2458521835604115,51.83195338210594 ]
+                "coordinates": [
+                    5.2458521835604115,
+                    51.83195338210594
+                ]
             },
             "properties": {
                 "id": -12,
@@ -285,7 +315,10 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [4.86420024488237,52.395440638594245]
+                "coordinates": [
+                    4.86420024488237,
+                    52.395440638594245
+                ]
             },
             "properties": {
                 "id": -13,
@@ -312,7 +345,10 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [5.0957658063035565,52.01557962351297]
+                "coordinates": [
+                    5.0957658063035565,
+                    52.01557962351297
+                ]
             },
             "properties": {
                 "id": -14,
@@ -335,12 +371,12 @@
                         "name": "Virtual Sciences",
                         "logoURL": "",
                         "website": "https://www.conclusion.nl/virtual-sciences"
-                    }                 ,   {
+                    },
+                    {
                         "name": "Xforce",
                         "logoURL": "",
                         "website": "https://www.conclusion.nl/xforce"
                     }
-
                 ]
             },
             "id": -14
@@ -349,7 +385,10 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [ 5.143359359959389,52.07249168687787]
+                "coordinates": [
+                    5.143359359959389,
+                    52.07249168687787
+                ]
             },
             "properties": {
                 "id": -15,
@@ -388,7 +427,6 @@
                         "logoURL": "",
                         "website": ""
                     }
-                    
                 ]
             },
             "id": -15
@@ -397,7 +435,10 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [ 4.8613759480434515,51.705911383671065]
+                "coordinates": [
+                    4.8613759480434515,
+                    51.705911383671065
+                ]
             },
             "properties": {
                 "id": -16,
@@ -419,7 +460,10 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [5.020763585362814,52.13772910977167]
+                "coordinates": [
+                    5.020763585362814,
+                    52.13772910977167
+                ]
             },
             "properties": {
                 "id": -17,
@@ -441,7 +485,10 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [ 5.916713328191697,52.2236925836214]
+                "coordinates": [
+                    5.916713328191697,
+                    52.2236925836214
+                ]
             },
             "properties": {
                 "id": -18,
@@ -463,7 +510,10 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [5.825623063391851,51.81238902414394]
+                "coordinates": [
+                    5.825623063391851,
+                    51.81238902414394
+                ]
             },
             "properties": {
                 "id": -19,
@@ -485,7 +535,10 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [5.133909282305028,52.299276429414384]
+                "coordinates": [
+                    5.133909282305028,
+                    52.299276429414384
+                ]
             },
             "properties": {
                 "id": -20,
@@ -507,7 +560,10 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [4.546134383364286, 51.93678284990234]
+                "coordinates": [
+                    4.546134383364286,
+                    51.93678284990234
+                ]
             },
             "properties": {
                 "id": -21,
