@@ -209,133 +209,321 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": []
+                "coordinates": [5.265736357275593,52.06241110387002]
             },
             "properties": {
-                "id": -3,
-                "statnaam": "",
+                "id": -10,
+                "statnaam": "4NG",
                 "rubriek": "conclusion-office-location",
-                "address": "",
+                "address": "Hoofdstraat 23, 3971 KA Driebergen-Rijsenburg",
                 "pictureURL": "",
                 "companies": [
                     {
-                        "name": "",
-                        "logoURL": "",
-                        "website": ""
+                        "name": "BrainBrothers",
+                        "logoURL": "https://www.brainbrothers.com/media/1eofo5x1/bb_wit.png?height=60&quality=80&format=webp",
+                        "website": "https://www.brainbrothers.com/"
+                    },
+                    {
+                        "name": "4Net",
+                        "logoURL": "https://cdn-matrix.4ng.nl/media/ofbibdri/4net_logo_middel.png",
+                        "website": "https://www.4net.com/"
+                    }                    {
+                        "name": "PossibilIT",
+                        "logoURL": "https://cdn-matrix.4ng.nl/media/n0dkdylz/possibilit_logo_middel.png",
+                        "website": "https://www.possibilit.nl"
                     }
+
                 ]
             },
-            "id": -3
+            "id": -10
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": []
+                "coordinates": [ 5.9210627140006435,52.18655821357478]
             },
             "properties": {
-                "id": -3,
-                "statnaam": "",
+                "id": -11,
+                "statnaam": "Conclusion Confidential",
                 "rubriek": "conclusion-office-location",
-                "address": "",
-                "pictureURL": "",
+                "address": "Laan van Spitsbergen 150, 7336 AX Apeldoorn",
+                "pictureURL": "https://lh5.googleusercontent.com/p/AF1QipMpZ6oKCJMIZEJFLLJ6fGLKWyxjh72NABv93JDT=w408-h255-k-no",
                 "companies": [
                     {
-                        "name": "",
+                        "name": "Conclusion Confidential",
                         "logoURL": "",
-                        "website": ""
+                        "website": "https://www.conclusion.nl/confidential"
                     }
                 ]
             },
-            "id": -3
+            "id": -11
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": []
+                "coordinates": [5.2458521835604115,51.83195338210594 ]
             },
             "properties": {
-                "id": -3,
-                "statnaam": "",
+                "id": -12,
+                "statnaam": "D&A Medical Group",
                 "rubriek": "conclusion-office-location",
-                "address": "",
+                "address": "Slimwei, AE, Achterweg 38, 4181 AE Waardenburg",
                 "pictureURL": "",
                 "companies": [
                     {
-                        "name": "",
-                        "logoURL": "",
-                        "website": ""
+                        "name": "D&A Medical Group",
+                        "logoURL": "https://www.conclusion.nl/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F33413%2F1693221766-d-a-conclusion-logo-homepage.png%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.47%26h%3D640%26w%3D800&w=828&q=80",
+                        "website": "http://www.dnagroup.nl/"
                     }
                 ]
             },
-            "id": -3
+            "id": -12
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": []
+                "coordinates": [4.86420024488237,52.395440638594245]
             },
             "properties": {
-                "id": -3,
-                "statnaam": "",
+                "id": -13,
+                "statnaam": "Hot ITem",
                 "rubriek": "conclusion-office-location",
-                "address": "",
+                "address": "Danzigerkade 19, 1013 AP Amsterdam",
                 "pictureURL": "",
                 "companies": [
                     {
-                        "name": "",
+                        "name": "Hot ITem",
                         "logoURL": "",
-                        "website": ""
+                        "website": "https://www.hotitem.nl/"
+                    },
+                    {
+                        "name": "Future Facts",
+                        "logoURL": "",
+                        "website": "https://www.futurefacts.nl/"
                     }
                 ]
             },
-            "id": -3
+            "id": -13
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": []
+                "coordinates": [5.0957658063035565,52.01557962351297]
             },
             "properties": {
-                "id": -3,
-                "statnaam": "",
+                "id": -14,
+                "statnaam": "Conclusion Nieuwegein",
                 "rubriek": "conclusion-office-location",
-                "address": "",
+                "address": "Edisonbaan 15, 3439 MN Nieuwegein",
                 "pictureURL": "",
                 "companies": [
                     {
-                        "name": "",
+                        "name": "AMIS",
                         "logoURL": "",
-                        "website": ""
+                        "website": "https://www.amis.nl/"
+                    },
+                    {
+                        "name": "KWD Resultaatmanageemnt",
+                        "logoURL": "https://www.kwdrm.nl/wp-content/uploads/2020/05/logo-1.png",
+                        "website": "https://www.kwdrm.nl/"
+                    },
+                    {
+                        "name": "Virtual Sciences",
+                        "logoURL": "",
+                        "website": "https://www.conclusion.nl/virtual-sciences"
+                    }                 ,   {
+                        "name": "Xforce",
+                        "logoURL": "",
+                        "website": "https://www.conclusion.nl/xforce"
                     }
+
                 ]
             },
-            "id": -3
+            "id": -14
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": []
+                "coordinates": [ 5.143359359959389,52.07249168687787]
             },
             "properties": {
-                "id": -3,
-                "statnaam": "",
+                "id": -15,
+                "statnaam": "Conclusion Utrecht",
                 "rubriek": "conclusion-office-location",
-                "address": "",
+                "address": "Herculesplein 80, 3584 AA Utrecht",
                 "pictureURL": "",
                 "companies": [
                     {
-                        "name": "",
+                        "name": "Conclusion MBS",
+                        "logoURL": "",
+                        "website": ""
+                    },
+                    {
+                        "name": "Conclusion Consulting",
+                        "logoURL": "",
+                        "website": ""
+                    },
+                    {
+                        "name": "Conclusion Enablement",
+                        "logoURL": "",
+                        "website": ""
+                    },
+                    {
+                        "name": "Conclusion Mission Critical",
+                        "logoURL": "",
+                        "website": ""
+                    },
+                    {
+                        "name": "Conclusion Low Code Company",
+                        "logoURL": "",
+                        "website": ""
+                    },
+                    {
+                        "name": "Conclusion Business Services",
                         "logoURL": "",
                         "website": ""
                     }
+                    
                 ]
             },
-            "id": -3
+            "id": -15
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 4.8613759480434515,51.705911383671065]
+            },
+            "properties": {
+                "id": -16,
+                "statnaam": "myBrand Zuid",
+                "rubriek": "conclusion-office-location",
+                "address": "Venestraat 1, 4931 BM Geertruidenberg",
+                "pictureURL": "https://lh5.googleusercontent.com/p/AF1QipMrcihBPXU3vi9WWWWGvL2qO48a9ervcXaR7sVK=w408-h272-k-no",
+                "companies": [
+                    {
+                        "name": "myBrand",
+                        "logoURL": "",
+                        "website": "https://www.mybrand.nl/"
+                    }
+                ]
+            },
+            "id": -16
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5.020763585362814,52.13772910977167]
+            },
+            "properties": {
+                "id": -17,
+                "statnaam": "myBrand West",
+                "rubriek": "conclusion-office-location",
+                "address": "Safariweg 12, 3605 MA Maarssen",
+                "pictureURL": "https://lh5.googleusercontent.com/p/AF1QipO5xpdtkHp2Y0mM_EMZFqtVHtB2GnP5iFLFC8rX=w408-h272-k-no",
+                "companies": [
+                    {
+                        "name": "myBrand",
+                        "logoURL": "https://mybrand.nl/wp-content/uploads/2023/05/myBrand-Conclusion-logo-2024.svg",
+                        "website": "https://www.mybrand.nl/"
+                    }
+                ]
+            },
+            "id": -17
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 5.916713328191697,52.2236925836214]
+            },
+            "properties": {
+                "id": -18,
+                "statnaam": "myBrand",
+                "rubriek": "conclusion-office-location",
+                "address": "Amersfoortseweg 37, 7313 AC Apeldoorn",
+                "pictureURL": "https://lh5.googleusercontent.com/p/AF1QipNVGlOFV2oshm3PzGDBja_M1119lJKSPsvaLcx5=w408-h272-k-no",
+                "companies": [
+                    {
+                        "name": "myBrand",
+                        "logoURL": "",
+                        "website": "https://www.mybrand.nl/"
+                    }
+                ]
+            },
+            "id": -18
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5.825623063391851,51.81238902414394]
+            },
+            "properties": {
+                "id": -19,
+                "statnaam": "First8",
+                "rubriek": "conclusion-office-location",
+                "address": "Jonkerbosplein 52 - 16e verdieping, Novio Tech Campus 6534 AB Nijmegen",
+                "pictureURL": "",
+                "companies": [
+                    {
+                        "name": "First8",
+                        "logoURL": "",
+                        "website": "https://www.conclusion.nl/first8"
+                    }
+                ]
+            },
+            "id": -19
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5.133909282305028,52.299276429414384]
+            },
+            "properties": {
+                "id": -20,
+                "statnaam": "Yellowtail",
+                "rubriek": "conclusion-office-location",
+                "address": "Gooimeer 6-01, 1411 DD Naarden",
+                "pictureURL": "",
+                "companies": [
+                    {
+                        "name": "Yellowtail",
+                        "logoURL": "",
+                        "website": "https://yellowtail.nl/"
+                    }
+                ]
+            },
+            "id": -20
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.546134383364286, 51.93678284990234]
+            },
+            "properties": {
+                "id": -21,
+                "statnaam": "Conclusion ForeyeT",
+                "rubriek": "conclusion-office-location",
+                "address": "Hoofdweg 24, 2908 LC Capelle aan den IJssel",
+                "pictureURL": "https://www.conclusion.nl/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F33413%2F1613477118-foreyet-kantoor.png%3Far64%3DMTox%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.38%26fp-y%3D0.54%26h%3D250%26w%3D250&w=640&q=80",
+                "companies": [
+                    {
+                        "name": "Conclusion ForeyeT",
+                        "logoURL": "",
+                        "website": "https://www.conclusion.nl/foreyet"
+                    }
+                ]
+            },
+            "id": -21
         }
     ]
 }
