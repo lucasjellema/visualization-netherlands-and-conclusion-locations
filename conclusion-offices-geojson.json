@@ -6,16 +6,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    6.463,
-                    53.202
+                    4.3267656,
+                    52.0333406
                 ]
             },
             "properties": {
-                "id": 91,
-                "statnaam": "theFactor.e",
-                "rubriek": "conclusion-office-location"
+                "id": -1,
+                "statnaam": "TheFactor.e",
+                "rubriek": "conclusion-office-location",
+                "address": "Friesestraatweg 215a, 9743 AD Groningen",
+                "pictureURL":"https://tfe.nl/app/uploads/R0000092-scaled-1280x853.jpg",
+                "companies": [{ "name": "TheFactor.e | 4NG",
+                               "logoURL" :"https://images.app.goo.gl/ye5x8Y7MGYvvvP4b7",
+                               "website" : "https://tfe.nl/"
+                             }]
             },
-            "id": "GA01"
+            "id": -1
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3267656,
+                    52.0333406
+                ]
+            },
+            "properties": {
+                "id": -2,
+                "statnaam": "Mediaan",
+                "rubriek": "conclusion-office-location",
+                "address": "Frankenlaan 5, 6419 BT Heerlen",
+                "pictureURL":"https://lh5.googleusercontent.com/p/AF1QipNgtn6Hdi1scvzfK8jXU6jbkuF2aDImWGXT90Z5=w426-h240-k-no",
+                "companies": [{ "name": "Mediaan",
+                               "logoURL" :"https://usercontent.one/wp/mediaan.com/wp-content/uploads/2022/06/Conclusion-Mediaan-Logo-Black-100x47-1.png?media=1691759740",
+                               "website" : "https://mediaan.com/"
+                             }]
+            },
+            "id": -2
         }
     ]
 }
