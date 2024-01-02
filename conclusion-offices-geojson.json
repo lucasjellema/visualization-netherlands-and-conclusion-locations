@@ -395,32 +395,37 @@
                 "statnaam": "Conclusion Utrecht",
                 "rubriek": "conclusion-office-location",
                 "address": "Herculesplein 80, 3584 AA Utrecht",
-                "pictureURL": "",
+                "pictureURL": "https://www.conclusion.nl/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F33413%2F1611740399-conclusion-kantoor-herculesplein.jpg%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26h%3D690%26w%3D1230&w=1920&q=80",
                 "companies": [
                     {
+                        "name": "Conclusion AFAS Solutions",
+                        "logoURL": "https://media-exp1.licdn.com/dms/image/C4D0BAQELcsAwk6WCpw/company-logo_200_200/0/1523006755872?e=2159024400&v=beta&t=mZ9rABUSYWerS9QTFlnTJSmTmoLBx3poBE9MKgYODLc",
+                        "website": "https://www.conclusion.nl/afas-solutions"
+                    },
+                    {
                         "name": "Conclusion MBS",
-                        "logoURL": "",
-                        "website": ""
+                        "logoURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.businessinsider.nl%2Fwp-content%2Fuploads%2F2023%2F01%2FScreenshot-2023-01-11-at-11.40.48.png%3Fver%3D1673433720&f=1&nofb=1&ipt=52016ab364f02c2f270c12e382af44a5d050cd3b0d0df7ff58312291c05538c2&ipo=images",
+                        "website": "https://www.conclusion.nl/mbs"
                     },
                     {
                         "name": "Conclusion Consulting",
-                        "logoURL": "",
-                        "website": ""
+                        "logoURL": "https://www.consultancy.nl/illustrations/news/spotlight/2022-01-31-071900735-Conclusion-Consulting-logo-png.jpg",
+                        "website": "https://www.conclusion.nl/consulting"
                     },
                     {
                         "name": "Conclusion Enablement",
-                        "logoURL": "",
-                        "website": ""
+                        "logoURL": "https://www.conclusion.nl/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F33413%2F1650879745-conclusion_enablement_rgb-aangepast.png%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26h%3D720%26w%3D1280&w=1920&q=80",
+                        "website": "https://www.conclusion.nl/enablement"
                     },
                     {
                         "name": "Conclusion Mission Critical",
-                        "logoURL": "",
-                        "website": ""
+                        "logoURL": "https://media-exp1.licdn.com/dms/image/C4D0BAQEU__tVJgHK8A/company-logo_200_200/0/1519888143706?e=2159024400&v=beta&t=_CdoLZbEe7wDQXNOlewFemE1HbEzQtPfpbDt80gKE0s",
+                        "website": "https://www.conclusion.nl/mission-critical"
                     },
                     {
                         "name": "Conclusion Low Code Company",
-                        "logoURL": "",
-                        "website": ""
+                        "logoURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fit-omscholing.nl%2Fwp-content%2Fuploads%2F2021%2F01%2FConclusion-Low-Code-Company.png&f=1&nofb=1&ipt=0af383bd67c8d6340f5bdca143dbf0a7fbb750d28787f638644c59d4b0296030&ipo=images",
+                        "website": "https://www.conclusion.nl/low-code-company"
                     },
                     {
                         "name": "Conclusion Business Services",
@@ -520,11 +525,11 @@
                 "statnaam": "First8",
                 "rubriek": "conclusion-office-location",
                 "address": "Jonkerbosplein 52 - 16e verdieping, Novio Tech Campus 6534 AB Nijmegen",
-                "pictureURL": "",
+                "pictureURL": "https://www.conclusion.nl/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F33413%2F1697551194-first8_1860_lr.jpg%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26h%3D475%26w%3D800&w=750&q=80",
                 "companies": [
                     {
                         "name": "First8",
-                        "logoURL": "",
+                        "logoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUQ2bVXtAPU35Nq1CP64NJxkNF6-3p7i4A1hDnmS2biQ&s",
                         "website": "https://www.conclusion.nl/first8"
                     }
                 ]
@@ -545,11 +550,11 @@
                 "statnaam": "Yellowtail",
                 "rubriek": "conclusion-office-location",
                 "address": "Gooimeer 6-01, 1411 DD Naarden",
-                "pictureURL": "",
+                "pictureURL": "https://lh5.googleusercontent.com/p/AF1QipNz6MmyRkHi2FF2e0BIb9-7W0XBk34gYUPiMlc8=w408-h272-k-no",
                 "companies": [
                     {
                         "name": "Yellowtail",
-                        "logoURL": "",
+                        "logoURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.datocms-assets.com%2F33413%2F1661415638-yellowtail_end-logo_rgb.jpg%3Fauto%3Dformat%26fill%3Dsolid%26fill-color%3DFFFFFF%26fit%3Dfillmax%26h%3D150%26w%3D350&f=1&nofb=1&ipt=ac7bb7182372b1f74035d1f37fd5c18b15155a8fce5204d6f53fca9f3720d57f&ipo=images",
                         "website": "https://yellowtail.nl/"
                     }
                 ]
@@ -574,12 +579,47 @@
                 "companies": [
                     {
                         "name": "Conclusion ForeyeT",
-                        "logoURL": "",
+                        "logoURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.coocoo.cloud%2Fimg%2FCases-Foreyet-Logo.jpg&f=1&nofb=1&ipt=9a24bee91b8a4172c6180b5b8442a941df655d2544aa1106a98a13f9ba78f14c&ipo=images",
                         "website": "https://www.conclusion.nl/foreyet"
                     }
                 ]
             },
             "id": -21
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.929594646827263,
+                    52.31737798785726
+                ]
+            },
+            "properties": {
+                "id": -22,
+                "statnaam": "Conclusion Amsterdam",
+                "rubriek": "conclusion-office-location",
+                "address": "Spaklerweg 52, 1114 AE Amsterdam",
+                "pictureURL": "https://www.conclusion.nl/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F33413%2F1681471156-furore-kantoor-sfeerfoto-marco-nathalie-michel-dorothy-1.jpg%3Far64%3DMTox%26crop%3Dfaces%26fit%3Dcrop%26h%3D600%26w%3D600&w=640&q=80",
+                "companies": [
+                    {
+                        "name": "Conclusion Furore",
+                        "logoURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Foizorg.nl%2Fwp-content%2Fuploads%2F2021%2F08%2FFURORE_END-logo_RGB-scaled-1-2048x1024.jpg&f=1&nofb=1&ipt=253e2bcd3c8c750e47d147cdf86edfc6cdb76b183ae50a108cde872da8c24feb&ipo=images",
+                        "website": "https://www.conclusion.nl/furore"
+                    },
+                    {
+                        "name": "Conclusion Enablement",
+                        "logoURL": "https://www.conclusion.nl/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F33413%2F1650879745-conclusion_enablement_rgb-aangepast.png%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26h%3D720%26w%3D1280&w=1920&q=80",
+                        "website": "https://www.conclusion.nl/enablement"
+                    },
+                    {
+                        "name": "Conclusion Mission Critical",
+                        "logoURL": "https://media-exp1.licdn.com/dms/image/C4D0BAQEU__tVJgHK8A/company-logo_200_200/0/1519888143706?e=2159024400&v=beta&t=_CdoLZbEe7wDQXNOlewFemE1HbEzQtPfpbDt80gKE0s",
+                        "website": "https://www.conclusion.nl/mission-critical"
+                    }
+                ]
+            },
+            "id": -22
         }
     ]
 }
