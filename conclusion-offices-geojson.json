@@ -65,12 +65,12 @@
                 "statnaam": "NextFields",
                 "rubriek": "conclusion-office-location",
                 "address": "Willem Fenengastraat 4b, 1096 BN Amsterdam",
-                "pictureURL": "",
+                "pictureURL": "https://www.nextfields.com/media/nzsjv2oj/dsc00852-2.jpeg?width=300&quality=80&format=webp",
                 "companies": [
                     {
                         "name": "NextFields | 4NG",
                         "logoURL": "https://cdn-matrix.4ng.nl/media/3ujphkbw/nextfields-2022-logo.png",
-                        "website": ""
+                        "website": "https://www.nextfields.com/"
                     }
                 ]
             },
@@ -95,7 +95,7 @@
                     {
                         "name": "Blauwe Monsters | 4NG",
                         "logoURL": "https://cdn-matrix.4ng.nl/media/qixfdr3v/bm-logo-grijsonder_website.png",
-                        "website": ""
+                        "website": "https://blauwemonsters.nl/"
                     }
                 ]
             },
@@ -115,12 +115,12 @@
                 "statnaam": "Netvlies",
                 "rubriek": "conclusion-office-location",
                 "address": "Prinsenkade 8, 4811 VB Breda",
-                "pictureURL": "",
+                "pictureURL": "https://www.netvlies.nl/sites/default/files/styles/twig_image_landscape_1920_1080/public/images/NET-221201-3488.jpg?itok=CLHX7Oxt",
                 "companies": [
                     {
                         "name": "Netvlies | 4NG",
                         "logoURL": "https://cdn-matrix.4ng.nl/media/eufeudn2/netvlies.png",
-                        "website": ""
+                        "website": "https://www.netvlies.nl/"
                     }
                 ]
             },
@@ -140,12 +140,12 @@
                 "statnaam": "Arlanet",
                 "rubriek": "conclusion-office-location",
                 "address": "Veerdijk 40K, 1531 MS Wormer",
-                "pictureURL": "",
+                "pictureURL": "https://umbraco.com/media/2zfftxep/arlanet-office.jpg?quality=80",
                 "companies": [
                     {
                         "name": "Arlanet | 4NG",
                         "logoURL": "https://cdn-matrix.4ng.nl/media/enjouu2a/arlanet_logo_middel.png",
-                        "website": ""
+                        "website": "https://www.arlanet.nl/"
                     }
                 ]
             },
@@ -165,7 +165,7 @@
                 "statnaam": "Nexwork",
                 "rubriek": "conclusion-office-location",
                 "address": "Hoogbrugstraat 43, 6221 CP Maastricht",
-                "pictureURL": "",
+                "pictureURL": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/241632230_4542270982490547_5838738223309452283_n.jpg?stp=dst-jpg_p180x540&_nc_cat=100&ccb=1-7&_nc_sid=783fdb&_nc_ohc=dDRJdl-HBU8AX-Rnra2&_nc_ht=scontent-ams2-1.xx&oh=00_AfCMznYXnOKmPehjmlJwRXPmCzgqtsPfwlR7FJStI0MIzw&oe=659E7FC0",
                 "companies": [
                     {
                         "name": "Nexwork | 4NG",
@@ -355,7 +355,7 @@
                 "statnaam": "Conclusion Nieuwegein",
                 "rubriek": "conclusion-office-location",
                 "address": "Edisonbaan 15, 3439 MN Nieuwegein",
-                "pictureURL": "",
+                "pictureURL": "https://www.conclusion.nl/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F33413%2F1614344165-hoofdkantoor-conclusion.jpg%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26h%3D690%26w%3D1230&w=3840&q=80",
                 "companies": [
                     {
                         "name": "AMIS",
